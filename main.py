@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import instaloader
 
-TOKEN = "8514377757:AAG_Z8GWiQeyyNazXOGnYURBacS6axf3p4E"
+TOKEN = "8514377757:AAF0P9fLOjpeMfoGpIw4DJ7_GOAyE7oGV7c"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
